@@ -1,0 +1,13 @@
+C:\Users\Jay\source\repos\Tribeca\Tribeca\bin\Debug\netcoreapp3.1\Tribeca.exe
+C:\Users\Jay\source\repos\Tribeca\Tribeca\bin\Debug\netcoreapp3.1\Tribeca.deps.json
+C:\Users\Jay\source\repos\Tribeca\Tribeca\bin\Debug\netcoreapp3.1\Tribeca.runtimeconfig.json
+C:\Users\Jay\source\repos\Tribeca\Tribeca\bin\Debug\netcoreapp3.1\Tribeca.runtimeconfig.dev.json
+C:\Users\Jay\source\repos\Tribeca\Tribeca\bin\Debug\netcoreapp3.1\Tribeca.dll
+C:\Users\Jay\source\repos\Tribeca\Tribeca\bin\Debug\netcoreapp3.1\Tribeca.pdb
+C:\Users\Jay\source\repos\Tribeca\Tribeca\obj\Debug\netcoreapp3.1\Tribeca.csprojAssemblyReference.cache
+C:\Users\Jay\source\repos\Tribeca\Tribeca\obj\Debug\netcoreapp3.1\Tribeca.AssemblyInfoInputs.cache
+C:\Users\Jay\source\repos\Tribeca\Tribeca\obj\Debug\netcoreapp3.1\Tribeca.AssemblyInfo.cs
+C:\Users\Jay\source\repos\Tribeca\Tribeca\obj\Debug\netcoreapp3.1\Tribeca.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\Tribeca\Tribeca\obj\Debug\netcoreapp3.1\Tribeca.dll
+C:\Users\Jay\source\repos\Tribeca\Tribeca\obj\Debug\netcoreapp3.1\Tribeca.pdb
+C:\Users\Jay\source\repos\Tribeca\Tribeca\obj\Debug\netcoreapp3.1\Tribeca.genruntimeconfig.cache
